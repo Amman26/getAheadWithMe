@@ -1,0 +1,15 @@
+
+PS C:\Wipro Training\Python\PythonCoding\Daily Assignments\Day 8> python -m unittest --verbos
+test_add (tests.test_operations.TestAdd.test_add) ... ok
+test_divide_by_zero (tests.test_operations.TestException.test_divide_by_zero) ... ok
+test_length (tests.test_operations.TestList.test_length) ... Test completed
+ok
+test_add (tests.test_operations.TestMath.test_add) ... ok
+test_isupper (tests.test_operations.TestStringMethods.test_isupper) ... ok
+test_upper (tests.test_operations.TestStringMethods.test_upper) ... ok
+test_sub (tests.test_operations.TestSubtract.test_sub) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.002s
+
+OK
